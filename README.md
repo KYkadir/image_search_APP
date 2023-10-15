@@ -2,14 +2,11 @@
 
 The **Image Search App** is a user-friendly tool for performing visual searches. Users can search for images on the internet using text-based queries and quickly access interesting visuals. Additionally, it provides a platform to review search results and follow links to the corresponding websites.
 
-## Installation
+## Access the Website
 
-To run the **Image Search App** locally, follow these steps:
+You can access the Image Search App by following this link:
 
-1. Clone this repository to your local machine using Git:
-
-
-2. Open the `index.html` file in your web browser.
+[Image Search App](https://kykadir.github.io/image_search_APP/)
 
 ## Usage
 
